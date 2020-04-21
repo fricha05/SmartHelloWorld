@@ -4,6 +4,6 @@ namespace App {
         private string name {get; set;}
         private string time {get; set;}
         private string fullString {get; set;}
-        private string writeString();
+        private void writeFullHelloWorl();
     }
 }
